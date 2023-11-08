@@ -2,7 +2,7 @@
 
 A simple portfolio website with home and contact pages.
 ## Demo
-You can view the live demo of the website at .
+You can view the live demo of the website at https://pandi-webdev.github.io/portfolio-website-simple/
 
 ## Features
 
